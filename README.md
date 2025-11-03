@@ -10,6 +10,7 @@ Tela Sobre exibindo:
 Nome do desenvolvedor
 Ano de desenvolvimento
 
+
 | Informação                 | Valor      |
 | -------------------------- | ---------- |
 | **Nome**                   | Luan Costa |
@@ -22,3 +23,4 @@ Desenvolvimento do layout solicitado
 Personalização do projeto
 Criação da tela Sobre
 Inserção das informações do desenvolvedor
+
