@@ -4,7 +4,7 @@ Aplicação desenvolvida em .NET MAUI para fins educacionais, simulando um siste
 
 **Funcionalidades**
 
-Interface construída com XAML
+Interface construída com XAML /n
 Navegação entre telas
 Tela Sobre exibindo:
 Nome do desenvolvedor
@@ -23,4 +23,5 @@ Desenvolvimento do layout solicitado
 Personalização do projeto
 Criação da tela Sobre
 Inserção das informações do desenvolvedor
+
 
