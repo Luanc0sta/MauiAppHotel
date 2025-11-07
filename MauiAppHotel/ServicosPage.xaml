@@ -1,0 +1,17 @@
+﻿<ContentPage
+    x:Class="MauiAppHotel.Views.ServicosPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Serviços">
+
+	<ScrollView>
+		<VerticalStackLayout Padding="20" Spacing="15">
+			<Label Text="Serviços Disponíveis" FontSize="26" HorizontalOptions="Center"/>
+			<Label Text="✅ Café da manhã incluso" FontSize="18"/>
+			<Label Text="✅ Piscina aquecida" FontSize="18"/>
+			<Label Text="✅ Wi-Fi gratuito" FontSize="18"/>
+			<Label Text="✅ Academia e SPA" FontSize="18"/>
+			<Label Text="✅ Estacionamento 24h" FontSize="18"/>
+		</VerticalStackLayout>
+	</ScrollView>
+</ContentPage>
